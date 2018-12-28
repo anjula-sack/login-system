@@ -4,7 +4,7 @@
 </head>
 <body>
 <div class="container">
-    <form action="" method="post">
+    <form action="db.php" method="post">
         <label for="username">Username:</label>
         <input type="text" name="username" id="username" placeholder="enter username" required><br/>
         <label for="password">password:</label>
